@@ -1,1 +1,1 @@
-# KBL_LCD_RGB_FPC_socket
+# KBL_LCD_RGB_FPC
